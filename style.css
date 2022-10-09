@@ -1,12 +1,12 @@
     h1 {
-        color: rgb(136, 91, 74);Lucida
+        color: rgb(0, 0, 0);Lucida
         font-size: 40px;
-        font-family: Helvetica;
+        font-family: copperplate;
     }
  
     body {
         background-color: rgb(108, 74, 38);
-        background-image: url("./assets/Natural\ Wood.jpg");
+        background-image: url("./assets/hexagons_with_casino_games-wallpaper-1920x1080.jpg");
         display: flex; 
         justify-content: center;
         align-items: center;
@@ -43,8 +43,7 @@
  
     #print {
         font-family: Verdana,
-            Geneva, Tahoma, sans-serif;
- 
+        Tahoma, sans-serif;
         color: rgb(46, 147, 32);
         font-size: 20px;
     }
@@ -55,8 +54,21 @@
 
     #ins {
         font-family: Verdana,
-            Geneva, Tahoma, sans-serif;
-             
-        color: rgb(46, 147, 32);
+        Tahoma, sans-serif;
+        text-align: center;        
+        color: rgb(0, 0, 0);
         font-size: 17px;
+        background: rgb(2,0,36);
+        background: linear-gradient(90deg, rgba(8, 2, 109, 0.928) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+        border-radius: 20px;
+        padding: 1em;
     }
+
+
+    #h1 {
+        background: rgb(2,0,36);
+        background: linear-gradient(90deg, rgba(8, 2, 109, 0.928) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+        border-radius: 20px;
+        padding: 3em;
+    }
+
