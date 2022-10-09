@@ -19,23 +19,23 @@
         width: 80px;
         height: 80px;
         margin: auto;
-        border: 1px solid rgb(0, 0, 0);
+        border: 2px solid rgb(0, 0, 0);
         border-radius: 2px;
         font-size: 50px;
         text-align: center;
+        padding: .5em;
     }
  
     #but {
         box-sizing: border-box;
         width: 95px;
         height: 40px;
-        border: 1px solid rgb(107, 66, 5);
+        border: 1px solid ##36494E;
         margin: auto;
         border-radius: 10px;
         font-family: Verdana,
-            Geneva, Tahoma, sans-serif;
- 
-        background-color: rgb(225, 158, 25);
+        Tahoma, sans-serif;
+        background-color: rgb(82, 104, 83);
         color: white;
         font-size: 20px;
         cursor: pointer;
@@ -59,8 +59,8 @@
         color: rgb(0, 0, 0);
         font-size: 17px;
         background: rgb(2,0,36);
-        background: linear-gradient(90deg, rgba(8, 2, 109, 0.928) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
-        border-radius: 20px;
+        background: linear-gradient(90deg, rgb(13, 6, 155) 0%, rgba(29, 29, 163, 0.969) 35%, rgb(80, 171, 232) 100%);
+        border-radius: 10px;
         padding: 1em;
     }
 
