@@ -51,6 +51,7 @@
         font-size: 50px;
         text-align: center;
         padding: .5em;
+        background-color: rgba(128, 233, 109, 0.865);
     }
  
     #but {
