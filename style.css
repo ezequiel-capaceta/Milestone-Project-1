@@ -33,8 +33,8 @@
         background: rgb(2,0,36);
         background: linear-gradient(90deg, rgb(13, 6, 155) 0%, rgba(29, 29, 163, 0.969) 35%, rgb(80, 171, 232) 100%);
         border-radius: 20px;
-        padding: 1em;
         width: 70%;
+        height: 8em;
         align-self: center;
     }
 
